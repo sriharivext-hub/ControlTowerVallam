@@ -1,0 +1,282 @@
+D:\controltower\ControlTower\obj\Debug\net9.0\ControlTower.csproj.AssemblyReference.cache
+D:\controltower\ControlTower\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\controltower\ControlTower\obj\Debug\net9.0\ControlTower.GeneratedMSBuildEditorConfig.editorconfig
+D:\controltower\ControlTower\obj\Debug\net9.0\ControlTower.AssemblyInfoInputs.cache
+D:\controltower\ControlTower\obj\Debug\net9.0\ControlTower.AssemblyInfo.cs
+D:\controltower\ControlTower\obj\Debug\net9.0\ControlTower.csproj.CoreCompileInputs.cache
+D:\controltower\ControlTower\obj\Debug\net9.0\ControlTower.MvcApplicationPartsAssemblyInfo.cs
+D:\controltower\ControlTower\obj\Debug\net9.0\ControlTower.MvcApplicationPartsAssemblyInfo.cache
+D:\controltower\ControlTower\bin\Debug\net9.0\appsettings.Development.json
+D:\controltower\ControlTower\bin\Debug\net9.0\appsettings.json
+D:\controltower\ControlTower\bin\Debug\net9.0\ControlTower.staticwebassets.runtime.json
+D:\controltower\ControlTower\bin\Debug\net9.0\ControlTower.staticwebassets.endpoints.json
+D:\controltower\ControlTower\bin\Debug\net9.0\ControlTower.exe
+D:\controltower\ControlTower\bin\Debug\net9.0\ControlTower.deps.json
+D:\controltower\ControlTower\bin\Debug\net9.0\ControlTower.runtimeconfig.json
+D:\controltower\ControlTower\bin\Debug\net9.0\ControlTower.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\ControlTower.pdb
+D:\controltower\ControlTower\bin\Debug\net9.0\Dapper.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\controltower\ControlTower\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\controltower\ControlTower\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\controltower\ControlTower\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\controltower\ControlTower\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\controltower\ControlTower\obj\Debug\net9.0\scopedcss\bundle\ControlTower.styles.css
+D:\controltower\ControlTower\obj\Debug\net9.0\compressed\mnfe4w01x5-zmgent3n0j.gz
+D:\controltower\ControlTower\obj\Debug\net9.0\compressed\fq1w0kujlh-9atbayv3a8.gz
+D:\controltower\ControlTower\obj\Debug\net9.0\compressed\dyrir0veo4-ct69nlyow1.gz
+D:\controltower\ControlTower\obj\Debug\net9.0\compressed\mp4zt6eho5-ixpaz1gldy.gz
+D:\controltower\ControlTower\obj\Debug\net9.0\compressed\lzzdznki1k-n0rqqpxohf.gz
+D:\controltower\ControlTower\obj\Debug\net9.0\compressed\meyok46drj-p7hj2jktuy.gz
+D:\controltower\ControlTower\obj\Debug\net9.0\compressed\5vb4tjy22f-i8fj6rnb82.gz
+D:\controltower\ControlTower\obj\Debug\net9.0\compressed\8pxgq1jcd5-pvdha3938a.gz
+D:\controltower\ControlTower\obj\Debug\net9.0\staticwebassets.build.json
+D:\controltower\ControlTower\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\controltower\ControlTower\obj\Debug\net9.0\staticwebassets.development.json
+D:\controltower\ControlTower\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\controltower\ControlTower\obj\Debug\net9.0\ControlT.E9048B48.Up2Date
+D:\controltower\ControlTower\obj\Debug\net9.0\ControlTower.dll
+D:\controltower\ControlTower\obj\Debug\net9.0\refint\ControlTower.dll
+D:\controltower\ControlTower\obj\Debug\net9.0\ControlTower.pdb
+D:\controltower\ControlTower\obj\Debug\net9.0\ControlTower.genruntimeconfig.cache
+D:\controltower\ControlTower\obj\Debug\net9.0\ref\ControlTower.dll
+D:\controltower\ControlTower\obj\Debug\net9.0\compressed\l9748xw1ze-0c8do76kh6.gz
+D:\controltower\ControlTower\obj\Debug\net9.0\compressed\zapz0ej4rg-zga14ev751.gz
+D:\controltower\ControlTower\obj\Debug\net9.0\compressed\chqr0um0u0-vs5zs0ryhs.gz
+D:\controltower\ControlTower\obj\Debug\net9.0\compressed\kw3f1gcl2y-we8m0ld0ni.gz
+D:\controltower\ControlTower\obj\Debug\net9.0\compressed\ujb94n0x4u-gef3zaap5m.gz
+D:\controltower\ControlTower\obj\Debug\net9.0\compressed\rkfk6aqqan-sc8chsmj6j.gz
+D:\controltower\ControlTower\obj\Debug\net9.0\compressed\zssd5nupwu-1rf5cbwp28.gz
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\appsettings.Development.json
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\appsettings.json
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\ControlTower.staticwebassets.runtime.json
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\ControlTower.staticwebassets.endpoints.json
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\ControlTower.exe
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\ControlTower.deps.json
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\ControlTower.runtimeconfig.json
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\ControlTower.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\ControlTower.pdb
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Dapper.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\Thingworx Development\ControlTower\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\ControlTower.csproj.AssemblyReference.cache
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\ControlTower.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\ControlTower.AssemblyInfoInputs.cache
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\ControlTower.AssemblyInfo.cs
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\ControlTower.csproj.CoreCompileInputs.cache
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\ControlTower.MvcApplicationPartsAssemblyInfo.cs
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\ControlTower.MvcApplicationPartsAssemblyInfo.cache
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\scopedcss\bundle\ControlTower.styles.css
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\compressed\chqr0um0u0-vs5zs0ryhs.gz
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\compressed\mnfe4w01x5-zmgent3n0j.gz
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\compressed\fq1w0kujlh-9atbayv3a8.gz
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\compressed\zapz0ej4rg-zga14ev751.gz
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\compressed\rkfk6aqqan-sc8chsmj6j.gz
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\compressed\zssd5nupwu-1rf5cbwp28.gz
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\compressed\kw3f1gcl2y-we8m0ld0ni.gz
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\compressed\ujb94n0x4u-gef3zaap5m.gz
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\compressed\dyrir0veo4-ct69nlyow1.gz
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\compressed\mp4zt6eho5-ixpaz1gldy.gz
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\compressed\lzzdznki1k-n0rqqpxohf.gz
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\compressed\meyok46drj-p7hj2jktuy.gz
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\compressed\5vb4tjy22f-i8fj6rnb82.gz
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\compressed\8pxgq1jcd5-pvdha3938a.gz
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\compressed\l9748xw1ze-0c8do76kh6.gz
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\staticwebassets.build.json
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\staticwebassets.development.json
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\ControlT.E9048B48.Up2Date
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\ControlTower.dll
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\refint\ControlTower.dll
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\ControlTower.pdb
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\ControlTower.genruntimeconfig.cache
+D:\Thingworx Development\ControlTower\obj\Debug\net9.0\ref\ControlTower.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\appsettings.Development.json
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\appsettings.json
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\ControlTower.staticwebassets.endpoints.json
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\ControlTower.staticwebassets.runtime.json
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\ControlTower.exe
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\ControlTower.deps.json
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\ControlTower.runtimeconfig.json
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\ControlTower.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\ControlTower.pdb
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Dapper.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\Thingworx Development\ControlTowerReports\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\ControlTower.csproj.AssemblyReference.cache
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\ControlTower.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\ControlTower.AssemblyInfoInputs.cache
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\ControlTower.AssemblyInfo.cs
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\ControlTower.csproj.CoreCompileInputs.cache
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\ControlTower.MvcApplicationPartsAssemblyInfo.cs
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\ControlTower.MvcApplicationPartsAssemblyInfo.cache
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\scopedcss\bundle\ControlTower.styles.css
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\compressed\chqr0um0u0-vs5zs0ryhs.gz
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\compressed\mnfe4w01x5-zmgent3n0j.gz
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\compressed\fq1w0kujlh-9atbayv3a8.gz
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\compressed\kw3f1gcl2y-we8m0ld0ni.gz
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\compressed\ujb94n0x4u-gef3zaap5m.gz
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\compressed\dyrir0veo4-ct69nlyow1.gz
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\compressed\mp4zt6eho5-ixpaz1gldy.gz
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\compressed\lzzdznki1k-n0rqqpxohf.gz
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\compressed\meyok46drj-p7hj2jktuy.gz
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\compressed\5vb4tjy22f-i8fj6rnb82.gz
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\compressed\8pxgq1jcd5-pvdha3938a.gz
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\compressed\l9748xw1ze-0c8do76kh6.gz
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\staticwebassets.build.json
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\staticwebassets.development.json
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\ControlT.E9048B48.Up2Date
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\ControlTower.dll
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\refint\ControlTower.dll
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\ControlTower.pdb
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\ControlTower.genruntimeconfig.cache
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\ref\ControlTower.dll
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\compressed\zapz0ej4rg-du5t9xmvpy.gz
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\compressed\rkfk6aqqan-qiqyyxkdgc.gz
+D:\Thingworx Development\ControlTowerReports\obj\Debug\net9.0\compressed\zssd5nupwu-0tvphzvzaj.gz

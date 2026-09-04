@@ -1,0 +1,5 @@
+Sno,Shift,NoOfEngines,StationDescription,StationNumber,Status,StartingEngineNumber,EndingEngineNumber,StartingDatetime,EndingDatetime,duration
+1,All,75,Balancer shaft sub assembly status,ML-02,MI,J3A5FHT2042790,J3A5FHT2043240,18-08-2026 12:54,18-08-2026 13:53,59 min
+2,All,75,Balancer shaft sub assembly status,ML-02,MI,J3A5FHT2042790,J3A5FHT2043240,18-08-2026 12:54,18-08-2026 13:53,59 min
+3,All,3,Balancer shaft sub assembly Repeat barcode status,ML-02,MI,J3A5FHT2042273,J3A5FHT2042227,18-08-2026 06:31,18-08-2026 06:34,2 min
+4,All,75,Balancer shaft sub assembly Repeat barcode status,ML-02,MI,J3A5FHT2042790,J3A5FHT2043240,18-08-2026 12:54,18-08-2026 13:53,59 min

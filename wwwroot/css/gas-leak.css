@@ -1,0 +1,319 @@
+/* ===================== LPG Gas Leak Monitoring Dashboard ===================== */
+:root {
+  --gl-green: #66cc33;
+  --gl-yellow: #f2dc1b;
+  --gl-red: #bf3030;
+  --gl-brown: #8a5a2b;
+}
+
+.gl-scroll {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background: var(--background);
+}
+
+.gl-canvas {
+  position: relative;
+  width: 2030px;
+  height: 1080px;
+  background: var(--background);
+}
+
+.gl-title {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  padding: 10px 0;
+  text-align: center;
+  font-size: 19px;
+  font-weight: 700;
+  color: var(--primary);
+}
+
+/* ---- alert banner ---- */
+.gl-alert-banner {
+  position: absolute;
+  left: 0;
+  top: 30px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 8px 20px;
+  background: var(--gl-red);
+  color: #fff;
+  font-weight: 700;
+  animation: gl-pulse-bg 1.2s infinite;
+  z-index: 5;
+}
+
+.gl-alert-banner[hidden] { display: none; }
+
+@keyframes gl-pulse-bg {
+  0%, 100% { background: var(--gl-red); }
+  50% { background: #7a1c1c; }
+}
+
+@keyframes gl-blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.25; }
+}
+
+.gl-blink { animation: gl-blink 0.9s infinite; }
+
+.gl-btn {
+  border: none;
+  border-radius: 6px;
+  padding: 6px 12px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  cursor: pointer;
+  background: #fff;
+  color: var(--gl-red);
+}
+
+/* ---- overlay elements positioned on the pipe diagram ---- */
+.gl-bg-diagram {
+  position: absolute;
+  pointer-events: none;
+  user-select: none;
+}
+
+.gl-ov { position: absolute; }
+
+.gl-lot-label {
+  font-size: 22px;
+  font-weight: 700;
+  color: #fff;
+  background: rgba(20, 22, 25, 0.75);
+  padding: 3px 10px;
+  border-radius: 4px;
+}
+
+.gl-lot-status {
+  font-size: 11px;
+  font-weight: 700;
+  padding: 3px 10px;
+  border-radius: 12px;
+  background: rgba(102, 204, 51, 0.85);
+  color: #0a2e00;
+}
+
+.gl-lot-status.gl-danger {
+  background: rgba(191, 48, 48, 0.9);
+  color: #fff;
+  animation: gl-blink 1s infinite;
+}
+
+.gl-gauge-label {
+  font-size: 10px;
+  text-align: center;
+  color: var(--gray);
+}
+
+.gl-gauge-circle {
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  border: 3px solid var(--gl-green);
+  background: var(--white);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 15px;
+  color: var(--gl-green);
+  transition: border-color 0.3s, color 0.3s;
+}
+
+.gl-gauge-circle small { font-size: 10px; color: var(--gray); }
+.gl-gauge-circle.gl-state-green { border-color: var(--gl-green); color: var(--gl-green); }
+.gl-gauge-circle.gl-state-yellow { border-color: var(--gl-yellow); color: var(--gl-yellow); }
+.gl-gauge-circle.gl-state-red { border-color: var(--gl-red); color: var(--gl-red); animation: gl-blink 1s infinite; }
+
+.gl-cylinder {
+  width: 93px;
+  height: auto;
+  filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.6));
+}
+
+.gl-bell-icon { width: 30px; height: 30px; }
+.gl-bell-icon.gl-buzzer { width: 35px; height: 35px; }
+.gl-bell-icon.gl-sensor { width: 30px; height: 30px; }
+
+.gl-valve-switch {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  padding: 0;
+}
+
+.gl-valve-track {
+  width: 46px;
+  height: 20px;
+  border-radius: 10px;
+  background: var(--gl-green);
+  position: relative;
+  display: block;
+}
+
+.gl-valve-switch.gl-closed .gl-valve-track { background: var(--gl-red); }
+
+.gl-valve-knob {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #fff;
+  transition: left 0.2s;
+}
+
+.gl-valve-switch.gl-closed .gl-valve-knob { left: 28px; }
+
+.gl-valve-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+}
+
+.gl-valve-open { color: var(--gl-green); }
+.gl-valve-close { color: var(--gl-red); }
+
+.gl-siren-dot { width: 38px; height: 38px; }
+
+.gl-leak-label {
+  font-size: 11px;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  background: rgba(20, 22, 25, 0.6);
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+.gl-vaporizer-icon {
+  width: 83px;
+  height: 128px;
+  object-fit: cover;
+  object-position: 15% center;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: outline-color 0.2s;
+  outline: 2px solid transparent;
+}
+
+.gl-vaporizer-icon:hover { outline-color: var(--primary); }
+
+.gl-vaporizer-label {
+  font-size: 12px;
+  font-weight: 700;
+  background: var(--neutral);
+  color: var(--dark);
+  border: 1px solid var(--gray);
+  border-radius: 4px;
+  padding: 4px 8px;
+  text-align: center;
+  cursor: pointer;
+  transition: border-color 0.2s;
+}
+
+.gl-vaporizer-label:hover { border-color: var(--primary); }
+
+.gl-paintshop-label {
+  background: #fff;
+  color: #333;
+  border: 2px solid var(--primary);
+  border-radius: 6px;
+  padding: 6px 0;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.gl-heater-icon { width: 138px; height: 128px; object-fit: contain; }
+
+.gl-point-row {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  left: 1798px;
+  width: 200px;
+}
+
+.gl-point-name { flex: 1; color: #fff; font-size: 13px; font-weight: 700; text-shadow: 0 1px 2px rgba(0,0,0,0.8); }
+.gl-point-siren { width: 38px; height: 38px; }
+
+.gl-legend-line {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--gray);
+}
+
+.gl-legend-danger { color: var(--gl-red); }
+.gl-legend-warning { color: #f9ef6b; }
+.gl-legend-normal { color: var(--gl-green); }
+
+.gl-pipe-sample {
+  width: 26px;
+  height: 5px;
+  border-radius: 3px;
+  display: inline-block;
+}
+
+.gl-pipe-yellow { background: var(--gl-yellow); }
+.gl-pipe-brown { background: var(--gl-brown); }
+
+.gl-legend-icon { width: 18px; height: 18px; }
+
+/* ---- modal (isolated from Control Tower's .modal-overlay/.modal-content) ---- */
+.gl-modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.gl-modal-overlay[hidden] { display: none; }
+
+.gl-modal {
+  background: var(--white);
+  color: var(--dark);
+  border: 1px solid var(--gray);
+  border-radius: 10px;
+  padding: 20px 24px;
+  min-width: 320px;
+  max-width: 90vw;
+  max-height: 80vh;
+  overflow: auto;
+  position: relative;
+}
+
+.gl-modal-close {
+  position: absolute;
+  top: 10px;
+  right: 14px;
+  background: none;
+  border: none;
+  color: var(--gray);
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.gl-modal h3 { margin-top: 0; color: var(--primary); }
+.gl-modal table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.gl-modal th, .gl-modal td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--gray); }
